@@ -709,7 +709,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7496310663175173884, guid: 90e6bb18b9ba9524c94bc4c89b0b7fa3, type: 3}
       propertyPath: sceneName
-      value: 
+      value: Stage4
       objectReference: {fileID: 0}
     - target: {fileID: 7496310663268495260, guid: 90e6bb18b9ba9524c94bc4c89b0b7fa3, type: 3}
       propertyPath: m_AnchorMax.y

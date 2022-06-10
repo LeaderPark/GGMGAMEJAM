@@ -14,6 +14,7 @@ public class StageSet : MonoBehaviour
 
     void Start()
     {
+        PlayerPrefs.DeleteAll();
         stageCount = PlayerPrefs.GetInt("stageNum", 1);
         stageCountStart = stageCount;
         for (int a = 0; stageCount > a; a++)
